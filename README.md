@@ -41,4 +41,4 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
-[![CircleCI](https://circleci.com/gh/ankit-mjain/Project4Udacity/tree/main.svg?style=svg)](https://circleci.com/gh/ankit-mjain/Project4Udacity/tree/main)
+    [![CircleCI](https://circleci.com/gh/ankit-mjain/Project4Udacity/tree/master.svg?style=svg)](https://circleci.com/gh/ankit-mjain/Project4Udacity/tree/master)
